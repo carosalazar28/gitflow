@@ -11,3 +11,9 @@ Esta es una metodología agíl que ayuda al desarrollo e implementación de CI, 
 Se va a tener el siguiente orden para el desarrollo de los diferentes cambios.
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*uUpzVOpdFw5V-tJ_YvgFmA.png" alt="imagen de gitflow">
+
+# Sección para los nombres
+
+En el siguiente apartado deberan ir agregando sus nombres.
+
+- Carolina Salazar
