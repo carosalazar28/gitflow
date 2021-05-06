@@ -20,8 +20,9 @@ En el siguiente apartado deberan ir agregando sus nombres.
 
 ### Rock Bands
 
-  - Foo Fighters
-  - Pink Floyd
+- Foo Fighters
+- Pink Floyd
+
 ## Sección Carlos Guzman
 
-Esta es la seccion creada por Carlos Guzmán
+## Regla 1 x FA
