@@ -17,3 +17,8 @@ Se va a tener el siguiente orden para el desarrollo de los diferentes cambios.
 En el siguiente apartado deberan ir agregando sus nombres.
 
 - Carolina Salazar
+
+### Rock Bands
+
+  - Foo Fighters
+  - Pink Floyd
