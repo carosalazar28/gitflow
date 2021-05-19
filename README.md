@@ -20,5 +20,15 @@ En el siguiente apartado deberan ir agregando sus nombres.
 
 ### Rock Bands
 
-  - Foo Fighters
-  - Pink Floyd
+- Foo Fighters
+- Pink Floyd
+
+## Sección Carlos Guzman
+
+## Regla 1 x FA
+
+# Plato preferido
+
+Agregar el plato preferido de cada uno
+
+- Pasta
